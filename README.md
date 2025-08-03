@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[🤗 [Hugging Face](https://huggingface.co/datasets/CUAHarm/CUAHarm)]
+[🤗 [Hugging Face](https://huggingface.co/datasets/CUAHarm/CUAHarm)] [📄 [Paper](papers/Measuring_Harmfulness_of_Computer_Using_Agents.pdf)]
 </div>
 
 ## 📋 Introduction

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[🤗 [Hugging Face](https://huggingface.co/datasets/CUAHarm/CUAHarm)] [📄 [Paper](papers/Measuring_Harmfulness_of_Computer_Using_Agents.pdf)]
+[🤗 [Hugging Face](https://huggingface.co/datasets/CUAHarm/CUAHarm)] [📄 [Paper](https://arxiv.org/abs/2508.00935)]
 </div>
 
 ## 📋 Introduction
@@ -81,7 +81,25 @@ See [Account Guideline](ACCOUNT_GUIDELINE.md).
 
 See [Proxy Guideline](PROXY_GUIDELINE.md).
 
-## 📄 License
+
+## 📚 Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+@misc{tian2025measuringharmfulnesscomputerusingagents,
+      title={Measuring Harmfulness of Computer-Using Agents}, 
+      author={Aaron Xuxiang Tian and Ruofan Zhang and Janet Tang and Jiaxin Wen},
+      year={2025},
+      eprint={2508.00935},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2508.00935}, 
+}
+```
+
+
+## ⚖️ License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
